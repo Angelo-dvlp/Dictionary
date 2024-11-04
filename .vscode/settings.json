@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "c:\\Users\\salam\\Documents\\U\\3\\Programacion II\\ARCHIVOS JSON\\Diccionario con GSON\\lib\\gson-2.8.2.jar"
+    ]
+}

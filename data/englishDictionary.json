@@ -1,0 +1,32 @@
+{
+  "dictionary": [
+    {
+      "spanishWord": "hola",
+      "translatedWord": "hello"
+    },
+    {
+      "spanishWord": "carro",
+      "translatedWord": "car"
+    },
+    {
+      "spanishWord": "casa",
+      "translatedWord": "house"
+    },
+    {
+      "spanishWord": "cancion",
+      "translatedWord": "song"
+    },
+    {
+      "spanishWord": "vaca",
+      "translatedWord": "cow"
+    },
+    {
+      "spanishWord": "avion",
+      "translatedWord": "airplane"
+    },
+    {
+      "spanishWord": "vaca",
+      "translatedWord": "cow"
+    }
+  ]
+}
